@@ -1,0 +1,16 @@
+Frontend Setupm-
+Create a React application
+
+npx create-react-app code-snippets-frontend
+cd code-snippets-frontend
+
+
+Backend Setup -
+Create a directory for the backend:
+
+mkdir code-snippets-backend
+cd code-snippets-backend
+npm init -y
+npm install express mysql redis axios
+
+
